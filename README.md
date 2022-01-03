@@ -1,6 +1,6 @@
 @@ -1,5 +1,13 @@
 ### 9. 이미지 넣기
-![PCWK Cafe](https://github.com/unicorn.png,"설명문구")  
+![PCWK Cafe](https://github.com/unicorn.png "설명문구")  
 
 
 ### 8. 강조
@@ -8,8 +8,7 @@ Spring을 만끽 하세요.
 **Spring**을 만끽 하세요.  
 
 ### 7. 하이퍼링크
-[PCWK Cafe](https://cafe.daum.net/pcwk,"설명문구")  
-[PCWK Cafe](https://cafe.daum.net/pcwk/,"설명문구")  
+[PCWK Cafe](https://cafe.daum.net/pcwk/ "설명문구")  
 
 ### 6. 가로선
 문자의 개수는 3개 이상   
